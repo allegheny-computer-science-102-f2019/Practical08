@@ -25,11 +25,9 @@ def fibsList(n):
 
 def fibByArm(m, gRatio_flt):
 # The function to compute the fibonacci sequence based on the golden ratio
-# m is a previous term, and gRatio_flt is the Golden Ratio (Phi)
+# Note, m is a previous term, and gRatio_flt is the Golden Ratio (Phi)
     printLine()
 #   TODO: calculate your fibonacci sequence using the arm mesaurements (phi)
-# note: this function is called to calculate a single value of the sequence.
-# It returns this value to the function that called it.
 
 #end of fibByArm()
 
