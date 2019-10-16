@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""myMorseGenerator_solution.py: Program to use generator functions to put text into morse code."""
+
 
 __author__      = "ADD YOUR NAME!!!"
 __date__        = "16 Oct 2019"
